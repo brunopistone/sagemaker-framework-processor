@@ -1,5 +1,8 @@
 # SageMaker Framework Processor custom container
 
+In this repo, we are showing how to extend an Amazon SageMaker built-in image for SKLearn and use it in a `FrameworkProcessor` for 
+running a SageMaker Processing Job.
+
 ## Build Docker Image
 
 ### Create ECR Repository
